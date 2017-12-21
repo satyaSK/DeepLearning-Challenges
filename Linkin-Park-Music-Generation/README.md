@@ -10,8 +10,9 @@ This is a submission to Siraj Raval's coding challenge of the week. I've learnt 
 * glob
 * tqdm 
 
-##Model Visualization
-![](https://github.com/satyaSK/DeepLearning-Challenges/raw/master/figure/tensorboard.png)
+## Model Visualization
+
+![https://github.com/satyaSK/DeepLearning-Challenges/raw/master/figure/tensorboard.png](https://github.com/satyaSK/DeepLearning-Challenges/raw/master/figure/tensorboard.png)
 
 ## Basic Usage
 To train and generate music samples, run this in terminal
@@ -30,7 +31,7 @@ The training data goes in the pop_music_midi folder. You have to use MIDI files.
 
 This challenge helped me learn a lot in a single day, about Restricted Boltzmann machines and RNN's in the context of of Music generation.
 
-##Resources
+## Resources
 
 * [Using RBM's to generate music using Tensorflow](http://danshiebler.com/2016-08-10-musical-tensorflow-part-one-the-rbm/)
 * [Dan Shiebler's code](https://github.com/dshieble/Music_RBM)
