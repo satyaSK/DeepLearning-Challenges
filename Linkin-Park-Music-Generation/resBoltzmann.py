@@ -65,6 +65,7 @@ updt = [W.assign_add(W_adder), bv.assign_add(bv_adder), bh.assign_add(bh_adder)]
 
 
 with tf.Session() as sess:
+    writer = tf.summary.FileWriter("./Visualize", sess.graph)
     init = sess.run(tf.global_variables_initializer())
     
     for epoch in tqdm(range(num_epochs)):
@@ -84,4 +85,8 @@ with tf.Session() as sess:
         
         S = np.reshape(sample[i,:], (num_timesteps, 2*note_range))
         midi_manipulation.noteStateMatrixToMidi(S, "music_{}".format(i+1))
-            
+        writer.close()    
+### Just for fun ###
+	#Tensorboard --logdir = "Visualize"
+Name = "Visualize"
+print("To get dataflow graph Use the command-> tensorboard --logdir=\"" + Name + "\" ")
