@@ -23,9 +23,7 @@ To visualize
 ```
 tensorboard --logdir = "Visualize"
 ```
-
-
-The training data goes in the pop_music_midi folder. You have to use MIDI files. You can find some [here](http://www.midiworld.com/files/). Training will take 5-10 minutes on a modern laptop. The output will be a collection of midi files. You can combine them together with a script if you'd like. 
+DO NOT get intimidated by the visualization as the underlying concepts are easy to understand, given that you have basic prior knowledge about neural networks. I have linked the TOP 4 resources which I chose to use. Also a video by [Siraj](https://www.youtube.com/watch?v=ZE7qWXX05T0) helps in understanding the concept even further.
 
 ## What I learnt?
 
