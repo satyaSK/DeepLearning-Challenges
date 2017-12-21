@@ -10,9 +10,6 @@ This is a submission to Siraj Raval's coding challenge of the week. I've learnt 
 * glob
 * tqdm 
 
-## Model Visualization
-
-![https://github.com/satyaSK/DeepLearning-Challenges/raw/master/figure/tensorboard.png](https://github.com/satyaSK/DeepLearning-Challenges/raw/master/figure/tensorboard.png)
 
 ## Basic Usage
 To train and generate music samples, run this in terminal
