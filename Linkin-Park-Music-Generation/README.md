@@ -10,6 +10,9 @@ This is a submission to Siraj Raval's coding challenge of the week. I've learnt 
 * glob
 * tqdm 
 
+## Visualizing data flow graph
+![tensorboard](https://user-images.githubusercontent.com/34591573/34262338-259fb622-e692-11e7-97d7-79d4e29a83b1.png)
+
 
 ## Basic Usage
 To train and generate music samples, run this in terminal
