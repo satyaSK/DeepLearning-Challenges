@@ -27,7 +27,7 @@ DO NOT get intimidated by the visualization as the underlying concepts are easy 
 
 ## What I learnt?
 
-This challenge helped me learn a lot in a single day, about Restricted Boltzmann machines and RNN's in the context of of Music generation.
+This challenge helped me learn a lot in a single day, about Restricted Boltzmann machines and RNN's along with LSTM's in the context of Music generation. Also an overview of GAN's.
 
 ## Resources
 
