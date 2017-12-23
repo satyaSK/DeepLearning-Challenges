@@ -1,4 +1,4 @@
-#Using Tranafer Learning 
+#Using Transfer Learning 
 from __future__ import print_function
 import time
 import numpy as  np
@@ -156,7 +156,7 @@ class Evaluator(object):
 
 evaluator = Evaluator()
 #########################################################
-iterations = 1
+iterations = 10
 x = np.random.uniform(0, 255, (1, height, width, 3)) - 128.
 
 
