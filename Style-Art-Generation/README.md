@@ -13,7 +13,7 @@ use the ```pip install <package>``` command to install the dependencies.
 
 ## Result
 ![styletransfer](https://user-images.githubusercontent.com/34591573/34319656-ab4ca7ae-e80d-11e7-8c39-a720610cac48.png)
-These results turned out to be pretty nice
+These results turned out to be pretty nice!!
 
 # Simplified Approach
 ## Training
