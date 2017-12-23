@@ -1,2 +1,2 @@
 # Deep Learning Challenges
-Thanks to [Siraj Raval](https://github.com/llSourcell) who motivated me to work on interesting cognitive problems and also to open an account on Github :)
+Thanks to [Siraj Raval](https://github.com/llSourcell) for putting up coding challenges. They help alot!
