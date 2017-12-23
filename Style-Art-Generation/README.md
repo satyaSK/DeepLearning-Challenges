@@ -33,7 +33,7 @@ These results turned out to be pretty nice!!
 ## Basic Usage
 For Running, type in terminal
 ```
-styleTransfer.py
+python styleTransfer.py
 ```
 
 # Credits
